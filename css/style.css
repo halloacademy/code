@@ -29,6 +29,12 @@ float: left;
 margin-top: 4px;
 }
 
+.logo-center {
+margin:0 auto;
+width: 200px;
+height: 200px;
+}
+
 .navbar-default {
 background: #1E1A6C;
 padding: 1em 0;
