@@ -1,0 +1,134 @@
+@font-face {
+font-family:Circular-Bold;
+src: url(../font/CircularStd-Bold.otf);
+}
+
+@font-face {
+font-family:Circular-Book;
+src: url(../font/CircularStd-Book.otf);
+}
+
+body {
+font-family:Circular-Book;
+background: #1E1A6C;
+}
+
+a.navbar-brand, .navbar-nav>li>a {
+color:#fff !important;
+}
+
+.logo-left {
+float: left;
+width: 28px;
+height: 28px;
+margin-right: 14px;
+}
+
+.logo-text {
+float: left;
+margin-top: 4px;
+}
+
+.navbar-default {
+background: #1E1A6C;
+padding: 1em 0;
+border:0;
+border-radius:0;
+border-bottom:1px solid #5652AD;
+}
+
+.jumbotron {
+background: transparent;
+padding-left:0 !important;
+padding-right:0 !important;
+}
+
+.bottom-space {
+margin-bottom: 4em;
+}
+
+h1, h2 {
+font-family:Circular-Bold;
+color: #fff !important;
+}
+
+h1.heading-courses {
+font-size: 36px;
+text-align: center;
+}
+
+p {
+font-family:Circular-Book;
+color: #fff !important;
+}
+
+.btn-primary, .btn-primary:hover {
+font-family:Circular-Bold;
+background: #F62459;
+border:0;
+border-radius: 0;
+text-shadow: none;
+}
+
+.wrapper {
+text-align: center;
+}
+
+.btn-primary.button-courses {
+display: inline-block;
+margin: 0 auto;
+font-family:Circular-Bold;
+font-size: 20px;
+color:#F62459;
+background: transparent;
+border:4px solid #F62459;
+border-radius: 0;
+text-shadow: none;
+}
+
+.estimated {
+width: 100%;
+overflow: hidden;
+margin-bottom: 36px;
+opacity: .5;
+}
+
+.float-left {
+float:left;
+}
+
+i.fa {
+text-align: center;
+width: 100%;
+padding: 10px 0;
+color:#F62459;
+}
+
+i.fa.fa-clock-o{
+font-size: 24px;
+margin-right: 10px;
+padding: 0;
+color:#fff;
+text-align: left;
+}
+
+p.courses {
+text-align: justify;
+font-size: 16px;
+}
+
+.navbar-toggle {
+border: 0;
+}
+
+.navbar-toggle:hover {
+background: none !important;
+}
+
+footer {
+background: #1E1A6C;
+padding: 2em 0;
+width: 100%;
+overflow: hidden;
+border-top:1px solid #5652AD;
+}
