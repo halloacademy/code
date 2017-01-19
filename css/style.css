@@ -47,6 +47,7 @@ border-bottom:1px solid #5652AD;
 background: transparent;
 padding-left:0 !important;
 padding-right:0 !important;
+padding-bottom: 0 !important;
 }
 
 .bottom-space {
@@ -78,6 +79,10 @@ text-shadow: none;
 }
 
 .wrapper {
+text-align: center;
+}
+
+.wrapper-get-started {
 text-align: center;
 }
 
@@ -141,4 +146,24 @@ background: #1E1A6C;
 padding: 2em 0;
 width: 100%;
 overflow: hidden;
+}
+
+/* MOBILE */
+
+@media (max-width:768px) {
+
+.container {
+margin:0 auto;
+width: 90%;
+}
+
+.wrapper-get-started {
+text-align: center;
+padding: 4em 0;
+}
+
+.navbar-toggle {
+display: none;
+}
+
 }
