@@ -50,7 +50,8 @@ padding-right:0 !important;
 }
 
 .bottom-space {
-margin-bottom: 4em;
+padding: 4em 0;
+border-bottom: 1px solid #5652AD;
 }
 
 h1, h2 {
@@ -118,6 +119,10 @@ color:#fff;
 text-align: left;
 }
 
+.fa-github-alt, .fa-diamond {
+color:#BF55EC !important;
+}
+
 p.courses {
 text-align: justify;
 font-size: 16px;
@@ -136,5 +141,4 @@ background: #1E1A6C;
 padding: 2em 0;
 width: 100%;
 overflow: hidden;
-border-top:1px solid #5652AD;
 }
