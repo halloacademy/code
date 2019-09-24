@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="400px" viewBox="0 0 960 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>SwissMade</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SwissMade" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path" stroke="#FFFFFF" stroke-width="3" points="27 320.249446 195.895174 346.794418 221.280198 333.521932 245.432776 284.33566 379.512769 186.579488 379.512769 158.832593 397.491969 151.638682 397.491969 108.89347 435.971025 95.0465863 443.91221 61.7259542 468.44958 27 511.75246 38.131043 532.6148 77.8258144 559.38284 87.1667448 589.876097 166.807238 589.876097 186.579488 624.752622 196.319001 639.207363 232.968908 673.041049 232.968908 717.386768 272.412729 846.330643 333.521932 951.863638 355.650178"></polyline>
+        <polyline id="Path-2" stroke="#FFFFFF" points="460.967494 36.9006429 489.002714 72.5754744 498.71177 102.696488 524.967494 150.845678 524.967494 175.900643"></polyline>
+        <polyline id="Path-3" stroke="#FFFFFF" points="570.5 115.5 531.456601 148.498175 517.724477 212.313517 488.505584 266.734106 435.70485 314.331013 404.837195 314.331013 389 334.5"></polyline>
+        <path d="M551.955664,354.561811 L488.5,266.411633" id="Path-4" stroke="#FFFFFF"></path>
+        <path d="M470.5,282.5 L511.131774,355.68641" id="Path-5" stroke="#FFFFFF"></path>
+    </g>
+</svg>
